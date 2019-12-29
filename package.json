@@ -1,0 +1,14 @@
+{
+  "name": "cypress-google-test",
+  "version": "1.0.0",
+  "description": "Google end to end tests with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress-open": "cypress open --project ./tests"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.8.1"
+  }
+}
